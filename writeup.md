@@ -50,8 +50,12 @@ Finally, this video is of a very slow curve.  I don't think this code will work 
 
 ###3. Suggest possible improvements to your pipeline
 
+<<<<<<< HEAD
 This code has no error detection/handling
 
 An improvement would be to fix the left lane jitter
+=======
+A possible improvement would be to fix the left lane jitter
+>>>>>>> 7e2b5535d7a27cf0d5712d728d94129caa1f374b
 
 Another potential improvement could be create a library to handle all the grayscale, Canny, and Hough code so I only have to write a wrapper and not recreate the helper functions every time.
